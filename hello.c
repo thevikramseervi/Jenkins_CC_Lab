@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-	printf("hello from github using jenkins\n");
+	printf("hello from automated jenkins pipeline\n");
 	return 0;
 }
